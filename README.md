@@ -19,12 +19,12 @@ Make the same design as in the [screenshot](#screenshot)
 
 ### Screenshot
 
-![Screenshot of the project](./design/destkop-design.jpg)
+![Screenshot of the project](./design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Shady-Mo/Social-Links-Profile)
-- Live Site URL: [Live preview](https://shady-mo.github.io/Social-Links-Profile/)
+- Solution URL: [Solution URL](https://github.com/Shady-Mo/Recipe-Page)
+- Live Site URL: [Live preview](https://shady-mo.github.io/Recipe-Page/)
 
 ## My process
 
