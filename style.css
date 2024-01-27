@@ -42,7 +42,7 @@ ol {
 }
 
 .container {
-    margin: auto;
+    margin: 5% auto 5%;
     background-color: white;
     width: 650px;
     height: fit-content;
