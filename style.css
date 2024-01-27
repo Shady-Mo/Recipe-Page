@@ -1,0 +1,126 @@
+* {
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0;
+}
+
+body {
+    background-color: #f3e5d8;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: #885542;
+}
+
+hr {
+    width: 100%;
+    opacity: 0.5;
+}
+
+div,
+.edit2 {
+    color: #736f6c;
+    font-weight: 200;
+}
+
+ul,
+ol {
+    color: #885542;
+    font-weight: bold;
+}
+
+.edit1 {
+    color: #5c534d;
+    font-weight: bold;
+}
+
+.container {
+    margin: auto;
+    background-color: white;
+    width: 650px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.parent {
+    background-color: #fff7fc;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 10px;
+}
+
+.parent h2,
+.parent ul {
+    color: #893a5b;
+}
+
+.parent ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.parent2 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.parent2 ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.parent3 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.parent3 ol {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.box .child {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 250px;
+}
+
+.box .text2 {
+    color: #885542;
+    font-weight: bold;
+}
+
+.box .child2 .text2 {
+    margin-right: 38px;
+}
+
+.box .child3 .text2,
+.box .child4 .text2 {
+    margin-right: 28px;
+}
